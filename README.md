@@ -1,5 +1,5 @@
-# pwnedcorp.github.io
-wrong page my dude
+# Pwned Corporation
+You Seem to have hit up the Wrong Page.
 
-
-redirect to repo
+To The Repo: https://pwnedcorp.github.io/secretrepo/
+To my WIP Site: https://programminghider.github.io/
